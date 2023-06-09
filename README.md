@@ -11,6 +11,10 @@
 - Simulate "live data" by updating the chart at specified interval
 
 
+
+![](https://github.com/lukemcdonald77/live_chart/blob/main/contain/ezgif-1-38de291262.gif)
+
+
 ## Plans Moving Forward
 - Backtesting visualization
 - Higher-quality data simulation
