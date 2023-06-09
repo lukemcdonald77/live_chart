@@ -8,7 +8,7 @@ const { mainBuildChart } = require('./contain/buildChart.js');
     there is a balance between ticks_per_bar and interval_ms that will provide the desired look. Lastly, randomness is the degree that simulated data/noise will be impacted by.
                                                                                                                                                                                     */
 
-mainBuildChart(element1 = "mainFiGuessrContainer", element2 = "coFiGuessrContainer", ticker = "AAPL", api_key = "9DJ4WN9S42R1PQET",ticks_per_bar = 40,interval_ms = 100,randomness = 1)
+mainBuildChart(element1 = "mainFiGuessrContainer", element2 = "coFiGuessrContainer", ticker = "AAPL", api_key = "INSERT_YOUR_API_KEY_HERE",ticks_per_bar = 40,interval_ms = 100,randomness = 1)
 
 
 
