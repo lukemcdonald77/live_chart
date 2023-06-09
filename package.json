@@ -1,0 +1,20 @@
+{
+  "name": "chart_livedata_sim",
+  "version": "1.0.0",
+  "main": "mainFiGuessr.js",
+  "scripts": {
+    "start": "parcel mainFiGuessr.html"
+  },
+  "author": "lmcdonald",
+  "license": "ISC",
+  "dependencies": {
+    "alphavantage": "^2.4.1",
+    "jquery": "^3.7.0",
+    "lightweight-charts": "^4.0.1",
+    "technicalindicators": "^3.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "description": ""
+}

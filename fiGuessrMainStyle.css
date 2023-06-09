@@ -1,0 +1,32 @@
+
+body{
+  background-color: #111;
+}
+#mainFiGuessrContainer{
+  font-family: "Inter", "system-ui"; 
+  z-index: 1;
+  position: relative;
+  width: 100%;
+  align-self: center;
+}
+#coFiGuessrContainer{
+  font-family: "Inter", "system-ui"; 
+  z-index: 1;
+  position: relative;
+  width: 100%;
+  align-self: center;
+
+}
+#search1{
+  color: white;
+  text-align: center;
+}
+[class = "multi selectize-dropdown plugin-remove_button"]{
+  text-align: center;
+}
+
+[class="selectize-control multi plugin-remove_button"]{
+  background-color: #111;
+    width: 100%;
+    text-align: center;
+}
