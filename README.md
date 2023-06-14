@@ -4,7 +4,7 @@
 ## Features
 
 - Fetch real historical data via AlphaVantage
-- Apply and chart several technical indicators
+- Apply and chart several technical indicators via TradingView's lightweight-charts library
 
 
 ![](https://github.com/lukemcdonald77/live_chart/blob/main/ezgif-1-f2d9c29fbf.gif)
